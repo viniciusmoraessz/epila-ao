@@ -1,0 +1,6 @@
+.preview-db/
+.next/
+node_modules/
+.env*
+!.env.example
+
